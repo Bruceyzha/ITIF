@@ -1,8 +1,0 @@
-*~
-*.o
-*build*/
-./models/
-__pycache__/
-.vscode
-./translation
-.cache
