@@ -4,7 +4,7 @@
 
 The Integrated Transformers Inference Framework (ITIF) is designed to address the challenges associated with GPU utilization and system throughput in deep learning applications that rely on Transformer models. ITIF allows multiple tenants to share a single backbone Transformer model on a single GPU, thereby optimizing resource management and improving overall performance.
 
-This repository contains the source code, documentation, and examples of ITIF, a groundbreaking framework aimed at improving the efficiency of deep learning, particularly for large-scale cloud providers hosting numerous models with a shared backbone.
+This repository contains the source code, documentation, and examples of ITIF, a groundbreaking framework aimed at improving the efficiency of deep learning, particularly for large-scale cloud providers hosting numerous models with a shared backbone. We develop this based on the FasterTransformer.
 
 ## Key Features
 
